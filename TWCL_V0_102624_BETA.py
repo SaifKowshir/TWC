@@ -9,7 +9,7 @@ st.set_page_config(layout="wide")
 user_credentials = {
     'engkhaled.wardak': 'AIC@123',
     'm.hakimi': 'AIC@000',
-    'hakimi.nsr': 'PPP@000'
+    'hakimi.nsr': 'PPP@011021'
 }
 
 # Function to validate login
